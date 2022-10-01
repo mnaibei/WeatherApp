@@ -1,9 +1,6 @@
 # WeatherApp
 Some pictures available below
-Target city should be Nairobi, idk why it registers as San Francisco. Will be fixed later.
-Data is correct for Nairobi though.
-![Simulator Screen Shot - Mucha's iPhone sim - 2022-09-30 at 18 02 15](https://user-images.githubusercontent.com/69506217/193300213-1939ea26-8b79-421b-843b-69a96b354fae.png)
-
+![Simulator Screen Shot - Mucha's iPhone sim - 2022-10-01 at 10 22 04](https://user-images.githubusercontent.com/69506217/193398075-df30299e-3c30-4d5f-bee9-48b5b9255893.png)
 
 
 
